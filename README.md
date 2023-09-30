@@ -35,7 +35,7 @@ A continuación se muestra la lista de los integrantes del grupo:
 |------------------------|----------------------------|--------|
 | Manrique Camacho P.    | manrique.camacho@ucr.ac.cr | C01554 |
 | Pamela Argueta D.      | pamela.argueta@ucr.ac.cr   | B70644 |
-| Josué Flores J         | josue.flores@ucr.ac.cr.    |        | 
+| Josué Flores J         | josue.flores@ucr.ac.cr.    | C12912 | 
 | Ashly Valerio S.       | ashly.valerio@ucr.ac.cr.   | B98045 |
 | Johnson Montero S.     | Johnson.Montero@ucr.ac.cr  | C05032 |
 
@@ -49,4 +49,4 @@ Para utilizar este proyecto se necesita:
 
 ## Licencia
 
-Este proyecto se encuentra bajo la Licencia MIT. Consulté el archivo LICENSE para más detalles.
+Este proyecto se encuentra bajo [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT). Consulté el archivo LICENSE para más detalles.
