@@ -49,4 +49,4 @@ Para utilizar este proyecto se necesita:
 
 ## Licencia
 
-Este proyecto se encuentra bajo la Licencia [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT). Consulté el archivo LICENSE para más detalles.
+Este proyecto se encuentra bajo [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT). Consulté el archivo LICENSE para más detalles.
