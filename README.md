@@ -35,8 +35,8 @@ A continuación se muestra la lista de los integrantes del grupo:
 |------------------------|----------------------------|--------|
 | Manrique Camacho P.    | manrique.camacho@ucr.ac.cr | C01554 |
 | Pamela Argueta D.      | pamela.argueta@ucr.ac.cr   | B70644 |
-| Josué Flores J         | josue.flores@ucr.ac.cr.    |  | 
-| Ashly Valerio S.       | ashly.valerio@ucr.ac.cr.   | B98045 |
+| Josué Flores J         | josue.flores@ucr.ac.cr     | C12912 | 
+| Ashly Valerio S.       | ashly.valerio@ucr.ac.cr    | B98045 |
 | Johnson Montero S.     | Johnson.Montero@ucr.ac.cr  | C05032 |
 
 ## Requisitos de Configuración
