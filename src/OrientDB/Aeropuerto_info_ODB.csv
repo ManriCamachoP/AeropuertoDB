@@ -1,0 +1,30 @@
+,Nombre,Ubicación,Timezone,Teléfono,cod aero
+0,Chicago O'hare Airport (ORD)," 10000 W O'Hare Ave, Chicago, Illinois 60666, United States ",(UTC/GMT -6),+1 800-832-6352,ORD
+1,San Salvador Cuscatlan Airport (SAL)," RN-5, San Salvador, El Salvador ",(UTC/GMT -6),+503 2349 9455,SAL
+2,Panama City Albrook Marcos A. Gelabert Airport (PAC)," Avenida Canfield, Panamá, Panama ",(UTC/GMT -5),+507 501-9272,PAC
+3,Guatemala City La Aurora Airport (GUA)," Guatemala City, Guatemala ",(UTC/GMT -6),+502 2321 5000,GUA
+4,Puerto Rico Airport (PUR)," Avenida Aeropuerto, 979 Carolina, Puerto Rico ",(UTC/GMT -4),+1 787-253-2329,PUR
+5,Belize City Municipal Airport (TZA)," Belize City, Belize ",(UTC/GMT -6),+501 224-5671,TZA
+6,Cap Haitien Cap Haitien Airport (CAP)," Cap-Haitien, Haiti ",(UTC/GMT -5),+509 44 80 5107,CAP
+7,Montevideo Carrasco Airport (MVD)," 101, 14000 Ciudad de la Costa, Uruguay ",(UTC/GMT -2),+598 2604 0329,MVD
+8,San Juan Luis Munoz Marin Airport (SJU)," Avenida Aeropuerto, 979 Carolina, Puerto Rico ",(UTC/GMT -4),+1 787-253-2329,SJU
+9,Santo Domingo Las Americas Airport (SDQ)," Ruta 66 , Santo Domingo, Dominican Republic ",(UTC/GMT -4),+1 809-947-2225,SDQ
+10,Managua Airport (MGA)," Carretera Norte Km. 11, Managua, Nicaragua ",(UTC/GMT -6),+505 2276 9180,MGA
+11,San Pedro Sula Ramon Villeda Morales Airport (SAP)," La Lima, Honduras ",(UTC/GMT -6),+504 2668-3268,SAP
+12,Tegucigalpa Airport (TGU)," Tegucigalpa, Honduras ",(UTC/GMT -6),+504 2234-2402,TGU
+13,Houston George Bush Intercontinental Airport (IAH)," 2800 North Terminal Road, Houston, Texas 77032, United States ",(UTC/GMT -6),+1 281-230-3100,IAH
+14,Orlando Airport (MCO)," 1 Jeff Fuqua Boulevard, Orlando, Florida 32827, United States ",(UTC/GMT -5),+1 407-825-2001,MCO
+15,Mexico City Benito Juarez Airport (MEX)," Av Capitan Carlos León S/N, 15620 Ciudad de México, Mexico ",(UTC/GMT -6),+52 55 2482 2400,MEX
+16,New York John F. Kennedy Airport (JFK)," New York, New York 11430, United States ",(UTC/GMT -5),+1 718-244-4444,JFK
+17,Medellin Enrique Olaya Herrera Airport (EOH)," Carrera 65 13-157, 50040 Medellín, Colombia ",(UTC/GMT -5),+57 4 2857430,EOH
+18,Santiago Comodoro Arturo Merino Benitez Airport (SCL)," Aviador David Fuentes, Pudahuel, Chile ",(UTC/GMT -3),+56 2 2690 1752,SCL
+19,Dallas Fort Worth Airport (DFW)," 2400 Aviation Drive, DFW Airport, Texas 75261, United States ",(UTC/GMT -6),+1 972-973-3112,DFW
+20,San Francisco Airport (SFO)," San Francisco, California 94128, United States ",(UTC/GMT -8),+1 650-821-8211,SFO
+21,Charlotte Douglas Airport (CLT)," 5501 Josh Birmingham Parkway, Charlotte, North Carolina 28208, United States ",(UTC/GMT -5),+1 704-359-4013,CLT
+22,Phoenix Sky Harbor Airport (PHX)," 3400 East Sky Harbor Boulevard, Phoenix, Arizona 85034, United States ",(UTC/GMT -7),+1 602-273-3300,PHX
+23,Miami Airport (MIA)," 2100 NW 42nd Ave, Miami, Florida 33126, United States ",(UTC/GMT -5),+1 305-876-7000,MIA
+24,New Philadelphia Philadelphia Airport (PHL)," 8000 Essington Ave, Philadelphia, Pennsylvania 19153, United States ",(UTC/GMT -5),+1 215-937-6937,PHL
+25,Richmond Vancouver Airport (YVR)," Grant McConachie Way 3211, V7B 0A4 Richmond, Canada ",(UTC/GMT -8),+1 604-207-7077,YVR
+26,Cancun Airport (CUN)," Carretera Cancún-Chetumal Km 22, 77565 Cancún, Mexico ",(UTC/GMT -6),+52 55 5284 0400,CUN
+27,Toronto Pearson Airport (YYZ)," Silver Dart Drive 6301, L5P 1B2 Mississauga, Canada ",(UTC/GMT -5),+1 416-247-7678,YYZ
+28,Brasilia Distrito Federal Brasilia Airport (BSB)," Lago Sul, 71608-900, Brazil ",(UTC/GMT -2),+55 61 3364-9000,BSB
