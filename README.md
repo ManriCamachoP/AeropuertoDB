@@ -51,7 +51,7 @@ Para utilizar este proyecto se necesita:
 
 Este proyecto se encuentra bajo [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT). Consulté el archivo LICENSE para más detalles.
 
-# Aviso sobre los Links en el Cuaderno IPython (Notebook)
+# Aviso sobre los Links en el Cuaderno de Web Scrapping (.ipynb)
 
 **Nota Importante:**
 Este cuaderno IPython (Notebook) ha sido creado con el propósito de demostrar las técnicas de web scraping implementadas en el proyecto "Mejora en la Gestión de Aeropuertos en América mediante Base de Datos NoSQL". Durante el desarrollo de la técnica de web scraping con Selenium, se accedió a sitios web que tenían términos y condiciones que prohibían la inclusión de enlaces directos a sus páginas.
