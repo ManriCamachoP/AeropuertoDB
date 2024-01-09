@@ -23,7 +23,7 @@ El objetivo principal de este proyecto es proporcionar una solución eficiente p
 El repositorio se organiza de la siguiente manera:
 
 -   `src/`: Contiene el código fuente de la aplicación que interactúa con la base de datos y las herramientas de web scraping.
-  -   `csv/`: Almacena los datos utilizados utilizados en el proyecto, se encuentran los documentos tanto de los vuelos, aerolinea y aeropuertos.
+    -      `csv/`: Almacena los datos utilizados utilizados en el proyecto, se encuentran los documentos tanto de los vuelos, aerolinea y aeropuertos.
 -   `docs/`: Contiene documentación adicional, instrucciones del trabajo.
 -   `presentación/`: Contiene los archivos de la presentación del proyecto.
 
