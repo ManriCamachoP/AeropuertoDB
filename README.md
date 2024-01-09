@@ -50,3 +50,20 @@ Para utilizar este proyecto se necesita:
 ## Licencia
 
 Este proyecto se encuentra bajo [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT). Consulté el archivo LICENSE para más detalles.
+
+# Aviso sobre los Links en el Cuaderno IPython (Notebook)
+
+**Nota Importante:**
+Este cuaderno IPython (Notebook) ha sido creado con el propósito de demostrar las técnicas de web scraping implementadas en el proyecto "Mejora en la Gestión de Aeropuertos en América mediante Base de Datos NoSQL". Durante el desarrollo de la técnica de web scraping con Selenium, se accedió a sitios web que tenían términos y condiciones que prohibían la inclusión de enlaces directos a sus páginas.
+
+Para cumplir con las políticas éticas y legales, se han eliminado los enlaces específicos de las fuentes de información utilizadas en este cuaderno. Sin embargo, es importante destacar que la omisión de los enlaces específicos puede afectar la funcionalidad del código relacionado con Selenium, ya que estaba diseñado específicamente para la estructura de la página web original.
+
+En lugar de proporcionar enlaces directos, se ha conservado el código relacionado con Selenium para fines de demostración y entendimiento de las técnicas utilizadas. Aunque el código puede no funcionar directamente en un entorno diferente al original, su presencia sirve como un ejemplo educativo y muestra la metodología aplicada en el proyecto.
+
+Agradecemos su comprensión y ética en el uso de este material.
+
+## Mantenimiento de la Transparencia
+
+Este repositorio busca mantener la transparencia en su enfoque metodológico y técnicas utilizadas. La decisión de no incluir enlaces específicos se basa en principios éticos y el respeto a las políticas de los sitios web consultados. Si tiene alguna pregunta o inquietud, no dude en ponerse en contacto con los integrantes del grupo a través de los correos electrónicos proporcionados.
+
+Apreciamos su interés en nuestro proyecto y su compromiso con prácticas éticas en la investigación y el desarrollo.
